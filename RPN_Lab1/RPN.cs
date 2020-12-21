@@ -207,13 +207,13 @@ namespace RPN_Lab1
                     {
                         outputString += $"{word} ";
                     }
-                    else if (prefFunctions.Contains(word))  //pref func
+                    else if (prefFunctions.Contains(word))  //pref function
                     {
                         tempStack.Push(word);
                     }
                     else
                     {
-                        result = $"Невідоме слово \"{word}\".";
+                        result = $"Невідоме слово \"{word}\"."; //output word error
                         return false;
                     }
                 }
@@ -225,7 +225,7 @@ namespace RPN_Lab1
                 {
                     if (tempStack.Count == 0)
                     {
-                        result = $"Не вистачає дужки \"(\" для позиції {i + 1}.";
+                        result = $"Не вистачає дужки \"(\" для позиції {i + 1}."; //output on wrong pos
                         return false;
                     }
                     while (tempStack.Peek() != "(")
@@ -255,7 +255,7 @@ namespace RPN_Lab1
                         }
                     }
 
-                    tempStack.Push($"{pos}");   //and put bin operation in stack
+                    tempStack.Push($"{pos}");   //put bin operation in stack
                 }
                 else
                 {

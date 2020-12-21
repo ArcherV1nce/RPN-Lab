@@ -7,3 +7,13 @@ D:\4Univ\Course5\Sem1\ITaTI\Lab 1\RPN_Lab1\obj\Debug\RPN_Lab1.pdb
 D:\4Univ\Course5\Sem1\ITaTI\Lab 1\RPN_Lab1\bin\Debug\RPN_Lab1.exe.config
 D:\4Univ\Course5\Sem1\ITaTI\Lab 1\RPN_Lab1\bin\Debug\RPN_Lab1.exe
 D:\4Univ\Course5\Sem1\ITaTI\Lab 1\RPN_Lab1\bin\Debug\RPN_Lab1.pdb
+D:\4KNU\5course\Sem 1\CT Tkachenko\RPN-Lab\RPN_Lab1\bin\Debug\RPN_Lab1.exe.config
+D:\4KNU\5course\Sem 1\CT Tkachenko\RPN-Lab\RPN_Lab1\bin\Debug\RPN_Lab1.exe
+D:\4KNU\5course\Sem 1\CT Tkachenko\RPN-Lab\RPN_Lab1\bin\Debug\RPN_Lab1.pdb
+D:\4KNU\5course\Sem 1\CT Tkachenko\RPN-Lab\RPN_Lab1\obj\Debug\RPN_Lab.csprojAssemblyReference.cache
+D:\4KNU\5course\Sem 1\CT Tkachenko\RPN-Lab\RPN_Lab1\obj\Debug\RPN_Lab1.Form1.resources
+D:\4KNU\5course\Sem 1\CT Tkachenko\RPN-Lab\RPN_Lab1\obj\Debug\RPN_Lab1.Properties.Resources.resources
+D:\4KNU\5course\Sem 1\CT Tkachenko\RPN-Lab\RPN_Lab1\obj\Debug\RPN_Lab.csproj.GenerateResource.cache
+D:\4KNU\5course\Sem 1\CT Tkachenko\RPN-Lab\RPN_Lab1\obj\Debug\RPN_Lab.csproj.CoreCompileInputs.cache
+D:\4KNU\5course\Sem 1\CT Tkachenko\RPN-Lab\RPN_Lab1\obj\Debug\RPN_Lab1.exe
+D:\4KNU\5course\Sem 1\CT Tkachenko\RPN-Lab\RPN_Lab1\obj\Debug\RPN_Lab1.pdb
